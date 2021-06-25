@@ -1,5 +1,3 @@
-wheel
-setuptools
 aiohttp
 python-decouple
 cryptg
