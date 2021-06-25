@@ -3,7 +3,7 @@
 ### ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/devillD/CompressorBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/CompressorBot/tree/main)
 
 ### A Telegram Video CompressorBot
 
